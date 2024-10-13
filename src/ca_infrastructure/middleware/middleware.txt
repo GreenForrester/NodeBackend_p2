@@ -1,0 +1,3 @@
+Logging: Recording logs for requests, responses, and errors for monitoring and debugging purposes.
+Error Handling: Centralized error handling to catch and process errors that occur in the application.
+Database Transactions: Managing database transactions to ensure data consistency and integrity.
